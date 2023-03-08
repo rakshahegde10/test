@@ -1,3 +1,3 @@
 # test
 
-https://rakshahegde10.github.io/react-gh-pages
+https://rakshahegde10.github.io/test
